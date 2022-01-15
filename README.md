@@ -5,7 +5,7 @@ This application takes an URL link and returns a shortened equivalent link.
 Built with [React](https://reactjs.org/) , [Material UI](https://mui.com/), [shrtcode](https://shrtco.de/docs/) API
 
 ## Demo
-link
+[View](https://shorten-url-link.netlify.app/)
 
 ## Installation
 
