@@ -9,8 +9,5 @@ Built with [React](https://reactjs.org/) , [Material UI](https://mui.com/), [shr
 
 ## Installation
 
-```yarn install```
-```yarn start```
-
 ## License
 [MIT](https://mit-license.org/)
