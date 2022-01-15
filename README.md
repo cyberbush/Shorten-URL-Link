@@ -2,7 +2,7 @@
 This application takes an URL link and returns a shortened equivalent link.
 
 ## Tech/framework used
-Built with [React](https://reactjs.org/) , Material UI
+Built with [React](https://reactjs.org/) , [Material UI](https://mui.com/)
 
 ## Screenshots and demo
 link
@@ -13,4 +13,4 @@ link
 ```yarn start```
 
 ## License
-MIT Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
+[MIT](https://mit-license.org/)
