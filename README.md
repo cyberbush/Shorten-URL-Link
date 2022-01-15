@@ -2,9 +2,9 @@
 This application takes an URL link and returns a shortened equivalent link.
 
 ## Tech/framework used
-Built with [React](https://reactjs.org/) , [Material UI](https://mui.com/)
+Built with [React](https://reactjs.org/) , [Material UI](https://mui.com/), [shrtcode](https://shrtco.de/docs/) API
 
-## Screenshots and demo
+## Demo
 link
 
 ## Installation
