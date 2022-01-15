@@ -2,7 +2,7 @@
 This application takes an URL link and returns a shortened equivalent link.
 
 ## Tech/framework used
-Built with React , Material UI
+Built with [React](https://reactjs.org/) , Material UI
 
 ## Screenshots and demo
 link
