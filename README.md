@@ -1,5 +1,5 @@
 # Link Shortener
-This repository contains the source for an application that shortens URL links.
+This application takes an URL link and returns a shortened equivalent link.
 
 ## Tech/framework used
 Built with React , Material UI
@@ -8,8 +8,9 @@ Built with React , Material UI
 link
 
 ## Installation
-yarn install
-yarn start
+
+```yarn install```
+```yarn start```
 
 ## License
 MIT Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
