@@ -1,3 +1,4 @@
+import React from 'react';
 import { CssBaseline, Grid, Typography } from '@material-ui/core';
 import './App.css';
 import Search from './components/Search';
