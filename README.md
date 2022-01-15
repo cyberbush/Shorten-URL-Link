@@ -1,5 +1,5 @@
-# Shorten URL Link
-
+# Link Shortener
+This repository contains the source for an application that shortens URL links.
 
 ## Tech/framework used
 Built with React , Material UI
