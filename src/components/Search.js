@@ -1,5 +1,5 @@
 import React, { useState } from 'react' 
-import { TextField, Button, LinearProgress } from '@material-ui/core'
+import { TextField, Button, LinearProgress, Typography } from '@material-ui/core'
 import shrtcode from '../api/shrtcode'
 
 const HTTP_URL_VALIDATOR_REGEX = /(http(s)?:\/\/.)?(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/g;
@@ -48,7 +48,7 @@ const Search = () => {
                     onChange={(e) => setLink(e.target.value)}
                     />
                     {!isLoading && (
-                        <Button style={{ marginBottom: '20px'}} onClick={(e) => handleSubmit(e)} variant="contained" color='primary'>
+                        <Button style={{ marginBottom: '50px'}} onClick={(e) => handleSubmit(e)} variant="contained" color='primary' size='large'>
                             Submit
                         </Button>
                     )}
@@ -56,9 +56,9 @@ const Search = () => {
                     {isLoading && <LinearProgress />}
             </form>
                 {short && ( 
-                    <div>
+                    <Typography variant='h5' align='center'>
                         Short Link: {short}
-                    </div>
+                    </Typography>
                 )}
         </>
     );

@@ -1,0 +1,7 @@
+Project To Do List
+
+- work on styling with material Ui
+
+- create detailed README for Github
+
+- Find host site for application  
